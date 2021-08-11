@@ -19,3 +19,6 @@ int main(void) {
    	       }
    	   }
    }
+   printf("A quantidade de consoantes na frase '%s' é %d\n", frase, consoantes);
+   return 0;
+}
